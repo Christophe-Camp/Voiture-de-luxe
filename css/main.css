@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero-banner {
+  background-image: url("../../assets/images/banner-luxedrive.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 80rem;
+}
+
+.card {
+  margin: 2rem;
+}
+
+/*# sourceMappingURL=main.css.map */
